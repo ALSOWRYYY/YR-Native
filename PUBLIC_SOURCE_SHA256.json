@@ -34,13 +34,13 @@
     },
     {
       "path": "LICENSE.md",
-      "bytes": 946,
-      "sha256": "47c7c69288faa939816f7781c0051c66cccdb267a5f4aa518762542429763d98"
+      "bytes": 981,
+      "sha256": "d529274a7114d592e793694efefe90b89730a154e48ebf403d704755bd8e62a2"
     },
     {
       "path": "LICENSES/archive-docs-MIT.txt",
-      "bytes": 1245,
-      "sha256": "7995e8c954458bb00910cbccf751aa0199153c027f9a9bfa670d3b2ab2d31ab2"
+      "bytes": 1235,
+      "sha256": "8026bf97d3fd47d73493ca02560322c9c67b9be0edef8b3e16dd64c0393a59b7"
     },
     {
       "path": "LICENSES/engine-MIT.txt",
@@ -64,8 +64,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3150,
-      "sha256": "cf37756f99c5b4f4874b6bbcbbec226dbbd7f19b9dc854ef4b85b0f03a50e441"
+      "bytes": 3335,
+      "sha256": "a0c09a6bb1132ab329b25e987d82e8ef1bdba5466ef7ab1a4ad4937561792522"
     },
     {
       "path": "RECOVERY.md",
@@ -73,19 +73,14 @@
       "sha256": "9040f5cba490ff1e1c55db9810b903899b93fa798296355b80a86aec1783ef0f"
     },
     {
-      "path": "research/dispatch_index.h",
-      "bytes": 4164,
-      "sha256": "318141f23d076780f2435b82ee7d19b057b1e33cf0c74add268c9bfb3c2dd941"
-    },
-    {
       "path": "RIGHTS_MANIFEST.json",
-      "bytes": 12121,
-      "sha256": "f0dd845d8b8dc34a5ca436064e88f4c33e33f48aca6023029d20aa05f1c80df8"
+      "bytes": 11878,
+      "sha256": "bc0ebc58a4b1e9303c1bc24167583b68d69d8669ac3a7fb00736a5a9d8d83055"
     },
     {
       "path": "RIGHTS_SCOPE.md",
-      "bytes": 1559,
-      "sha256": "5db272e315f3f54cfe916c994331a9555c36bdf8e26de73e6c9de28894eee058"
+      "bytes": 1564,
+      "sha256": "2be9c43646f03598ccb82fc7f1c91b6751b3cb6a297e4767a7c6797540a960a8"
     },
     {
       "path": "STATUS.md",
@@ -96,6 +91,11 @@
       "path": "THIRD_PARTY.md",
       "bytes": 2732,
       "sha256": "e0f177ef3bd772f6677c1bfdaed1d52e9039cc4344555f49c441af9317bfae25"
+    },
+    {
+      "path": "research/dispatch_index.h",
+      "bytes": 4164,
+      "sha256": "318141f23d076780f2435b82ee7d19b057b1e33cf0c74add268c9bfb3c2dd941"
     },
     {
       "path": "tools/storage_audit.py",

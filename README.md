@@ -2,7 +2,7 @@
 
 Active development was suspended indefinitely on 2026-11-14 at the owner's request.
 
-This is a curated tools-and-documentation release candidate for a Yuri's Revenge static recompilation research project. It is **not the full engine source, a downloadable game, or a complete replacement for gamemd.exe**. The local development history, generated game code and private evidence are deliberately excluded pending rights review.
+This is a curated tools-and-documentation archive for a Yuri's Revenge static recompilation research project. It is **not the full engine source, a downloadable game, or a complete replacement for gamemd.exe**. The local development history, generated game code and private evidence are deliberately excluded pending rights review.
 
 ## What is preserved here
 
@@ -30,4 +30,4 @@ Third-party status is version-specific; [THIRD_PARTY.md](THIRD_PARTY.md) must no
 
 This archive is inactive. No response times, future features or compatibility commitments are promised. Contributions must identify authorship, license and evidence scope. Do not send commercial binaries, lifted game source, dumps, private mods or personal logs. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-This candidate has not yet been published. Publication requires the owner's approval of the exact file list and rights report.
+The owner approved this 24-file publication and its stated licensing scope on 2026-11-15. The published files were independently cloned and checksum-verified. Only publication-status wording and its checksums were then updated; the reviewed source files were unchanged. This is not publication of the full private engine.

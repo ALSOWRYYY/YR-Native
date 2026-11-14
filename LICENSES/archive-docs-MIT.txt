@@ -2,8 +2,8 @@ MIT License
 
 Copyright (c) 2026 YR-Native archival contributors
 
-Proposed for newly authored archive documentation and metadata only,
-subject to the owner's approval of this publication candidate.
+Applies to newly authored archive documentation and metadata only.
+Publication scope approved by the owner on 2026-11-15.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
