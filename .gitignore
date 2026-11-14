@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.local/
+game/
+work/
+Reports/
+Crashes/
+*.exe
+*.dll
+*.mix
+*.pdb
+*.obj
+*.dmp
+*.bundle
+*.zip
+src/recomp/gen*/

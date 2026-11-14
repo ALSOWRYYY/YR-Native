@@ -1,0 +1,231 @@
+{
+  "schema": "yr-native-publication-rights-v1",
+  "source_head": "7611b43a9a1790eb6d3e099c6ca202a6689ef78b",
+  "toolkit_head_reviewed": "2029742ac4c40ecf94bdaaf8e1b5e30c5ae57cc9",
+  "decision": "LOCAL_REVIEW_CANDIDATE_NOT_PUBLICATION_APPROVAL",
+  "source_files": 5,
+  "notice_files": 3,
+  "total_bytes": 87912,
+  "files": [
+    {
+      "path": "tools/storage_budget.py",
+      "source_repository": "redalert2-recomp",
+      "source_path": "tools/storage_budget.py",
+      "source_commit": "7611b43a9a1790eb6d3e099c6ca202a6689ef78b",
+      "introduced_commit": "e9891404efddac6b67d111c3528798770952aeb3",
+      "last_change_commit": "e9891404efddac6b67d111c3528798770952aeb3",
+      "git_blob": "fba00fd010d791dff969aecf8b3732bcd2b26262",
+      "sha256": "5dd025be62a411a506707d0216d2c4c88404b94326c004c71318307ec054ede4",
+      "bytes": 6061,
+      "license": "MIT inherited for own work only; preserve notice",
+      "basis": "Generic disk preflight; optional explicit subprocess, shell=False",
+      "status": "CANDIDATE_LOW_RISK_OWNER_CONFIRMATION_REQUIRED",
+      "dependencies": "Python standard library",
+      "review": "Full substantive content read; first/last Git history and inherited LICENSE checked",
+      "scope": "Not a game engine build; no commercial executable/generated C/assets included"
+    },
+    {
+      "path": "tools/tests/test_storage_budget.py",
+      "source_repository": "redalert2-recomp",
+      "source_path": "tools/tests/test_storage_budget.py",
+      "source_commit": "7611b43a9a1790eb6d3e099c6ca202a6689ef78b",
+      "introduced_commit": "e9891404efddac6b67d111c3528798770952aeb3",
+      "last_change_commit": "e9891404efddac6b67d111c3528798770952aeb3",
+      "git_blob": "d72402e30668a89035c0b11bda915559b970dc79",
+      "sha256": "94d8744687a5c5384294c6941954de22ee9580ed7b0f2e9be417aa7c5d2082e1",
+      "bytes": 5832,
+      "license": "MIT inherited for own work only; preserve notice",
+      "basis": "Authored temporary/mocked storage budget contract tests",
+      "status": "CANDIDATE_LOW_RISK_OWNER_CONFIRMATION_REQUIRED",
+      "dependencies": "tools/storage_budget.py; Python unittest",
+      "review": "Full substantive content read; first/last Git history and inherited LICENSE checked",
+      "scope": "Not a game engine build; no commercial executable/generated C/assets included"
+    },
+    {
+      "path": "tools/storage_audit.py",
+      "source_repository": "redalert2-recomp",
+      "source_path": "tools/storage_audit.py",
+      "source_commit": "7611b43a9a1790eb6d3e099c6ca202a6689ef78b",
+      "introduced_commit": "643e27c04e68e79373148db93bce32e025d5c049",
+      "last_change_commit": "883fe154bfa62e70dee5ad742424e538ebcb74ad",
+      "git_blob": "7db1e5d52de09d7979e573a225cdb456e617c6c9",
+      "sha256": "a8689f075ad28e91d95d7888e594b5b233a114ac8951b3a49a84fbf996b6262a",
+      "bytes": 42327,
+      "license": "MIT inherited for own work only; preserve notice",
+      "basis": "Read-only metadata allocation and hardlink audit; no game expressions or assets",
+      "status": "CANDIDATE_LOW_RISK_OWNER_CONFIRMATION_REQUIRED",
+      "dependencies": "Python standard library; Windows allocation API for full metrics",
+      "review": "Full substantive content read; first/last Git history and inherited LICENSE checked",
+      "scope": "Not a game engine build; no commercial executable/generated C/assets included"
+    },
+    {
+      "path": "tools/tests/test_storage_audit.py",
+      "source_repository": "redalert2-recomp",
+      "source_path": "tools/tests/test_storage_audit.py",
+      "source_commit": "7611b43a9a1790eb6d3e099c6ca202a6689ef78b",
+      "introduced_commit": "643e27c04e68e79373148db93bce32e025d5c049",
+      "last_change_commit": "883fe154bfa62e70dee5ad742424e538ebcb74ad",
+      "git_blob": "f019c782e991e1abdf2a85259113b86a3e820267",
+      "sha256": "2b6553f4538666141731f804735b7799258bdbb5d105d3753abc5428073cec3f",
+      "bytes": 26582,
+      "license": "MIT inherited for own work only; preserve notice",
+      "basis": "Authored temporary filesystem and mocked Win32 contract tests",
+      "status": "CANDIDATE_LOW_RISK_OWNER_CONFIRMATION_REQUIRED",
+      "dependencies": "tools/storage_audit.py; Python unittest; Windows-specific tests",
+      "review": "Full substantive content read; first/last Git history and inherited LICENSE checked",
+      "scope": "Not a game engine build; no commercial executable/generated C/assets included"
+    },
+    {
+      "path": "LICENSES/engine-MIT.txt",
+      "source_repository": "redalert2-recomp",
+      "source_path": "LICENSE",
+      "source_commit": "7611b43a9a1790eb6d3e099c6ca202a6689ef78b",
+      "introduced_commit": "12318b6f11298800110b1674c94c0f799d39f1aa",
+      "last_change_commit": "c3b58b1810b70d2a16b0a79bbad517749c400b34",
+      "git_blob": "78282757baaab014afb0969574c47cf0ffedbbb0",
+      "sha256": "de6601cea3a6bf2d821b6b89f59b9d6e719cc017e530bcb4bbe2fcf7306e6dda",
+      "bytes": 1063,
+      "license": "MIT inherited for own work only; preserve notice",
+      "basis": "Preserved existing upstream MIT notice; not a new license grant for other files",
+      "status": "CANDIDATE_LOW_RISK_OWNER_CONFIRMATION_REQUIRED",
+      "dependencies": "None",
+      "review": "Full substantive content read; first/last Git history and inherited LICENSE checked",
+      "scope": "Not a game engine build; no commercial executable/generated C/assets included"
+    },
+    {
+      "path": "LICENSES/engine-NOTICE.md",
+      "source_repository": "redalert2-recomp",
+      "source_path": "NOTICE.md",
+      "source_commit": "7611b43a9a1790eb6d3e099c6ca202a6689ef78b",
+      "introduced_commit": "c3b58b1810b70d2a16b0a79bbad517749c400b34",
+      "last_change_commit": "c3b58b1810b70d2a16b0a79bbad517749c400b34",
+      "git_blob": "ee79c4d4e4f29053bd675b2931c4613505fc27a7",
+      "sha256": "f3c7341de13108e82f34986f43070fdba2433e1cb953abd1a2260186667bff5e",
+      "bytes": 820,
+      "license": "MIT inherited for own work only; preserve notice",
+      "basis": "Preserved upstream own-work/game-derived rights boundary",
+      "status": "CANDIDATE_LOW_RISK_OWNER_CONFIRMATION_REQUIRED",
+      "dependencies": "None",
+      "review": "Full substantive content read; first/last Git history and inherited LICENSE checked",
+      "scope": "Not a game engine build; no commercial executable/generated C/assets included"
+    },
+    {
+      "path": "research/dispatch_index.h",
+      "source_repository": "pcrecomp",
+      "source_path": "runtime/native32/dispatch_index.h",
+      "source_commit": "2029742ac4c40ecf94bdaaf8e1b5e30c5ae57cc9",
+      "introduced_commit": "a33579d7d58a8b82b90b7a186e05c5f577443bd3",
+      "last_change_commit": "2029742ac4c40ecf94bdaaf8e1b5e30c5ae57cc9",
+      "git_blob": "499950a97c6f1d5770f1874342117fe7c6b4475b",
+      "sha256": "318141f23d076780f2435b82ee7d19b057b1e33cf0c74add268c9bfb3c2dd941",
+      "bytes": 4164,
+      "license": "MIT inherited for own work only; preserve notice",
+      "basis": "Generic immutable address-table bucket lookup and bounded atomic publication; no game addresses, instructions or generated table",
+      "status": "CANDIDATE_LOW_RISK_OWNER_CONFIRMATION_REQUIRED",
+      "dependencies": "MSVC x86; Win32 API; stdint/size_t; including translation unit supplies recomp_func_t, sorted immutable recomp_dispatch_table and recomp_dispatch_count",
+      "review": "Full substantive content read; exact Git contribution history and inherited LICENSE checked",
+      "scope": "Research header only; not a complete Native32 or engine build; no game table or generated C included"
+    },
+    {
+      "path": "LICENSES/pcrecomp-MIT.txt",
+      "source_repository": "pcrecomp",
+      "source_path": "LICENSE",
+      "source_commit": "2029742ac4c40ecf94bdaaf8e1b5e30c5ae57cc9",
+      "introduced_commit": "b074b6fbf32e5a53e5d0cc1c2bead475bbfbc93c",
+      "last_change_commit": "d19c7ee3801da437673b259fd0338a28103d1bb5",
+      "git_blob": "78282757baaab014afb0969574c47cf0ffedbbb0",
+      "sha256": "de6601cea3a6bf2d821b6b89f59b9d6e719cc017e530bcb4bbe2fcf7306e6dda",
+      "bytes": 1063,
+      "license": "MIT inherited for own work only; preserve notice",
+      "basis": "Preserved MIT notice for generic toolchain own-work contribution",
+      "status": "CANDIDATE_LOW_RISK_OWNER_CONFIRMATION_REQUIRED",
+      "dependencies": "None",
+      "review": "Full substantive content read; exact Git contribution history and inherited LICENSE checked",
+      "scope": "Research header only; not a complete Native32 or engine build; no game table or generated C included"
+    }
+  ],
+  "not_a_complete_engine": true,
+  "publishing_requires_user_confirmation": true,
+  "new_documentation": [
+    {
+      "path": ".gitignore",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "AGENTS.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "ARCHITECTURE.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "BUILDING.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "HISTORY.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "LICENSE.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "LICENSES/archive-docs-MIT.txt",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "PERFORMANCE.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "README.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "RECOVERY.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "RIGHTS_SCOPE.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "STATUS.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "origin": "New factual archival documentation or metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "RIGHTS_MANIFEST.json",
+      "origin": "New provenance metadata; no private paths",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    },
+    {
+      "path": "PUBLIC_SOURCE_SHA256.json",
+      "origin": "New checksum metadata",
+      "license": "Proposed MIT for original contribution only; owner confirmation required"
+    }
+  ]
+}

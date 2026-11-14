@@ -1,0 +1,121 @@
+{
+  "schema": "public-source-checksums-v1",
+  "self_excluded": "PUBLIC_SOURCE_SHA256.json; full external manifest pins this file too",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 149,
+      "sha256": "caa754d28a95a18d52247eb3e856cd5f2a7a30f6537457a03cd71c85c966b35f"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 954,
+      "sha256": "09ff499023b54ff734b87567f8d940014a32b85b550ae4bff8f7f7549b004e58"
+    },
+    {
+      "path": "ARCHITECTURE.md",
+      "bytes": 2105,
+      "sha256": "fea5b881fb834dd7c1833176f3512fe22f0752c71f02521707c00fb835d50e20"
+    },
+    {
+      "path": "BUILDING.md",
+      "bytes": 2385,
+      "sha256": "e6ecb68d0ca6df068fdf7497b24d026338ccb5996ff57b78caf0e93a2545f3e8"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 855,
+      "sha256": "bb7a1a92278d1bdc0a1eac57d20f2d5fc5138d87ad852038a6ebe58ff6002a20"
+    },
+    {
+      "path": "HISTORY.md",
+      "bytes": 2472,
+      "sha256": "dddc6671b4be1d4cbb7575ab2c9ae047c7647ea467abb7d8319cf76f5da9c18f"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 946,
+      "sha256": "47c7c69288faa939816f7781c0051c66cccdb267a5f4aa518762542429763d98"
+    },
+    {
+      "path": "LICENSES/archive-docs-MIT.txt",
+      "bytes": 1245,
+      "sha256": "7995e8c954458bb00910cbccf751aa0199153c027f9a9bfa670d3b2ab2d31ab2"
+    },
+    {
+      "path": "LICENSES/engine-MIT.txt",
+      "bytes": 1063,
+      "sha256": "de6601cea3a6bf2d821b6b89f59b9d6e719cc017e530bcb4bbe2fcf7306e6dda"
+    },
+    {
+      "path": "LICENSES/engine-NOTICE.md",
+      "bytes": 820,
+      "sha256": "f3c7341de13108e82f34986f43070fdba2433e1cb953abd1a2260186667bff5e"
+    },
+    {
+      "path": "LICENSES/pcrecomp-MIT.txt",
+      "bytes": 1063,
+      "sha256": "de6601cea3a6bf2d821b6b89f59b9d6e719cc017e530bcb4bbe2fcf7306e6dda"
+    },
+    {
+      "path": "PERFORMANCE.md",
+      "bytes": 2854,
+      "sha256": "a1c7bcdb003ab72dbc4dc574b374a9d2851b0fd834e4bc81353255795ed1b930"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3150,
+      "sha256": "cf37756f99c5b4f4874b6bbcbbec226dbbd7f19b9dc854ef4b85b0f03a50e441"
+    },
+    {
+      "path": "RECOVERY.md",
+      "bytes": 1358,
+      "sha256": "9040f5cba490ff1e1c55db9810b903899b93fa798296355b80a86aec1783ef0f"
+    },
+    {
+      "path": "research/dispatch_index.h",
+      "bytes": 4164,
+      "sha256": "318141f23d076780f2435b82ee7d19b057b1e33cf0c74add268c9bfb3c2dd941"
+    },
+    {
+      "path": "RIGHTS_MANIFEST.json",
+      "bytes": 12121,
+      "sha256": "f0dd845d8b8dc34a5ca436064e88f4c33e33f48aca6023029d20aa05f1c80df8"
+    },
+    {
+      "path": "RIGHTS_SCOPE.md",
+      "bytes": 1559,
+      "sha256": "5db272e315f3f54cfe916c994331a9555c36bdf8e26de73e6c9de28894eee058"
+    },
+    {
+      "path": "STATUS.md",
+      "bytes": 1899,
+      "sha256": "650f033b628ecb905bdc0f8000e049605e9e1e730b9e04155b041f847b72dcac"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "bytes": 2732,
+      "sha256": "e0f177ef3bd772f6677c1bfdaed1d52e9039cc4344555f49c441af9317bfae25"
+    },
+    {
+      "path": "tools/storage_audit.py",
+      "bytes": 42327,
+      "sha256": "a8689f075ad28e91d95d7888e594b5b233a114ac8951b3a49a84fbf996b6262a"
+    },
+    {
+      "path": "tools/storage_budget.py",
+      "bytes": 6061,
+      "sha256": "5dd025be62a411a506707d0216d2c4c88404b94326c004c71318307ec054ede4"
+    },
+    {
+      "path": "tools/tests/test_storage_audit.py",
+      "bytes": 26582,
+      "sha256": "2b6553f4538666141731f804735b7799258bdbb5d105d3753abc5428073cec3f"
+    },
+    {
+      "path": "tools/tests/test_storage_budget.py",
+      "bytes": 5832,
+      "sha256": "94d8744687a5c5384294c6941954de22ee9580ed7b0f2e9be417aa7c5d2082e1"
+    }
+  ]
+}
